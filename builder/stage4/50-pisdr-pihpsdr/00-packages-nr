@@ -1,0 +1,8 @@
+libfftw3-dev
+libasound2-dev
+portaudio19-dev
+libpulse-dev
+libgtk-3-dev
+libcurl4-openssl-dev
+libusb-1.0-0-dev
+wiringpi
